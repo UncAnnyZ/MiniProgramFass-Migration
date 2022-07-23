@@ -1,0 +1,2 @@
+# MiniProgramFass-Migration
+云函数迁移，小程序云函数太贵了，我准备做一个中间层，给大家实现无缝迁移node,或者其他的serverless的服务当中，估计时间两个月时间，有空大家可以一起弄
